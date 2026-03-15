@@ -1,4 +1,4 @@
-a command-line tool built to discover active devices on a local network, resolve hostnames, and scan for standard open ports.
+# a command-line tool built to discover active devices on a local network, resolve hostnames, and scan for standard open ports.
 
 ### features
 
